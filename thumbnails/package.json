@@ -20,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/buraktekin/React/issues"
   },
-  "homepage": "https://github.com/buraktekin/React#readme"
+  "homepage": "https://github.com/buraktekin/React#readme",
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "react": "^0.13.3",
+    "react-dom": "^0.14.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
