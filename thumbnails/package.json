@@ -1,0 +1,24 @@
+{
+  "name": "thumbnails",
+  "version": "1.0.0",
+  "description": "thumbnail component written in ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraktekin/React.git"
+  },
+  "keywords": [
+    "react",
+    "thumbnail",
+    "bootstrap"
+  ],
+  "author": "Burak Tekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buraktekin/React/issues"
+  },
+  "homepage": "https://github.com/buraktekin/React#readme"
+}
