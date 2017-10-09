@@ -1,12 +1,11 @@
 var React = require('react');
-var ReactDOM = require('react-dom');
 
 var Button = React.createClass({
 	render: function() {
 		return (
-			<a href={this.props.btnURL} className='btn btn-danger' type='button'>
+			<button className='btn btn-danger' type='button' onClick={this.props.whenClicked}>
 				{this.props.btnText}
-			</a>
+			</button>
 		);
 	}
 });
